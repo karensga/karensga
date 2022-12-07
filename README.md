@@ -2,6 +2,8 @@
 Hola, Soy Karen 👋
 </h1>
 Full Stack
+
+
 ### Habilidades
 - Javascript (ES6)
 - NodeJS
